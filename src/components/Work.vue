@@ -8,7 +8,7 @@
           <info
             :src="microsoft"
             :tag="'Summer intern'"
-            :time="'2019/6 - 2017/8'"
+            :time="'2019/6 - 2019/8'"
             :text="'Internship in microsoft, mainly using Azure platform to do some AI experienment and projects'"
           />
         </div>

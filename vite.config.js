@@ -16,4 +16,9 @@ export default defineConfig({
       tsconfig: './tsconfig.json'
     }
   ],
+  resolve: {
+    alias: {
+      '@': fileURLToPath(new URL('./', import.meta.url))
+    }
+  },
 })

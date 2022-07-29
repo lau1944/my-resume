@@ -28,8 +28,8 @@
 </template>
 
 <script>
-import MCLOGO from "@assets/mc-logo.png";
-import NYULOGO from "@assets/nyu-logo.png";
+import MCLOGO from "@/assets/mc-logo.png";
+import NYULOGO from "@/assets/nyu-logo.png";
 import Info from "./InfoItem.vue";
 
 export default {

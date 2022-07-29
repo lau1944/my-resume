@@ -27,8 +27,8 @@
 </template>
 
 <script>
-import microsoft from "@assets/microsoft.png";
-import duoyi from "@assets/duoyi.jpeg";
+import microsoft from "@/assets/microsoft.png";
+import duoyi from "@/assets/duoyi.jpeg";
 import Info from "./InfoItem.vue";
 
 export default {

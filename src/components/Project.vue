@@ -24,8 +24,8 @@
 </template>
 
 <script>
-import Roomi from "@assets/roomi.png";
-import Shark from "@assets/shark.png";
+import Roomi from "@/assets/roomi.png";
+import Shark from "@/assets/shark.png";
 
 export default {
   computed: {

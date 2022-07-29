@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import Home from "@assets/home.jpeg";
+import Home from "@/assets/home.jpeg";
 
 export default {
     data: () => ({

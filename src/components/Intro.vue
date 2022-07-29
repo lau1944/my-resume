@@ -27,9 +27,9 @@
 </template>
 
 <script>
-import linkedin from "@assets/linkedin.png";
-import medium from "@assets/medium.png";
-import github from "@assets/github.png";
+import linkedin from "@/assets/linkedin.png";
+import medium from "@/assets/medium.png";
+import github from "@/assets/github.png";
 
 export default {
   data: () => ({

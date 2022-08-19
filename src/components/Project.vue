@@ -38,6 +38,12 @@ export default {
           link: "https://play.google.com/store/apps/details?id=com.vau.apphunt.studiotech",
         },
         {
+          title: "bun-rest",
+          description: "An express-like API for bun http server",
+          icon: "https://camo.githubusercontent.com/c47befdac93bb193ad67412084da005bcbdd2f7f311d88ddc5e1c0aa470b8681/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d766963746f72756c65722d666c61742d766963746f72756c65722f3334342f65787465726e616c2d62616f7a692d6368696e6573652d6e65772d796561722d766963746f72756c65722d666c61742d766963746f72756c65722e706e67",
+          link: "https://github.com/lau1944/bunrest",
+        },
+        {
           title: "Shark",
           description: "A flutter server rendering framework",
           icon: Shark,
